@@ -1,4 +1,6 @@
 ## Setup Windows 10 for Modern/Hipster Development
+This site is also helpful: https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows
+
 A fresh Windows isn't entirely ready for modern development, but all the tools you need are available. A good terminal, popular bash tools, Git, a decent package manager - when properly setup, modern development on Windows can be a lot of fun. In particular, this document outlines how to configure your Windows in such a way that it can easily handle most development tasks usually run on a Mac OS X or a Linux distro.
 
 ## A Word about Ubuntu Linux on Windows
